@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Nexora/static/css/main.523f56a5.css",
+    "main.js": "/Nexora/static/js/main.97f8051c.js",
+    "static/js/453.6de7344b.chunk.js": "/Nexora/static/js/453.6de7344b.chunk.js",
+    "static/media/hero-img1.jpg": "/Nexora/static/media/hero-img1.f7a9cef47cffa5fe4d0d.jpg",
+    "static/media/work.jpg": "/Nexora/static/media/work.7c61310dcc21e3ceb846.jpg",
+    "static/media/img1.jpg": "/Nexora/static/media/img1.054f24fe55eedf34b52d.jpg",
+    "static/media/hero-img3.jpg": "/Nexora/static/media/hero-img3.9176551daf77401613d1.jpg",
+    "static/media/img2.jpg": "/Nexora/static/media/img2.4e27d6e90a2d58bc52a6.jpg",
+    "static/media/img3.jpg": "/Nexora/static/media/img3.df2f8d4ab5463ad6441d.jpg",
+    "static/media/hero-img2.jpg": "/Nexora/static/media/hero-img2.f13ad3903df0828a4f92.jpg",
+    "static/media/fa-solid-900.ttf": "/Nexora/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Nexora/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/Nexora/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Nexora/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/Nexora/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/team5.jpg": "/Nexora/static/media/team5.849950bc338b0b322c6a.jpg",
+    "static/media/team3.jpg": "/Nexora/static/media/team3.5de03ca8026a02a7e51a.jpg",
+    "static/media/team4.jpg": "/Nexora/static/media/team4.1f145d6d7a77d3f7fa1d.jpg",
+    "static/media/team7.jpg": "/Nexora/static/media/team7.8abf58b17d3dccaddec4.jpg",
+    "static/media/fa-regular-400.woff2": "/Nexora/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/team2.jpg": "/Nexora/static/media/team2.5d54ef0fad5f779cd88b.jpg",
+    "static/media/team6.jpg": "/Nexora/static/media/team6.51e55dc38b7ce790b9b8.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Nexora/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Nexora/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Nexora/index.html",
+    "main.523f56a5.css.map": "/Nexora/static/css/main.523f56a5.css.map",
+    "main.97f8051c.js.map": "/Nexora/static/js/main.97f8051c.js.map",
+    "453.6de7344b.chunk.js.map": "/Nexora/static/js/453.6de7344b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.523f56a5.css",
+    "static/js/main.97f8051c.js"
+  ]
+}
